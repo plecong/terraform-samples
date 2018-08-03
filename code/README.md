@@ -23,4 +23,4 @@ aws codepipeline register-webhook-with-third-party --webhook-name sample_webhook
 
 - @stelligent: [Continuous Delivery to S3 via CodePipeline and CodeBuild](https://stelligent.com/2017/09/05/continuous-delivery-to-s3-via-codepipeline-and-codebuild/)
 - @stelligent: [Static pipeline](https://github.com/stelligent/devops-essentials/blob/master/samples/static/pipeline.yml)
-- [@kylegalbraith0(https://twitter.com/kylegalbraith): [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c)
+- [@kylegalbraith](https://twitter.com/kylegalbraith): [How to continuously deploy a static website in style using GitHub and AWS](https://medium.freecodecamp.org/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c)
