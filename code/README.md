@@ -1,4 +1,4 @@
-# Continuous Integration / Deployment
+# Terraform CloudPipeline and CloudBuild Setup
 
 This Terraform module sets up the CodePipeline and CodeBuild resources
 to build the code in the [sample/client](../sample/client).
