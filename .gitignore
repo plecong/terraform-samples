@@ -1,4 +1,7 @@
 /.terraform
+*.tfstate
+*.tfstate.backup
+*.tfvars
 .cache
 dist
 node_modules
