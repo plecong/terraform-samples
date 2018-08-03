@@ -1,4 +1,4 @@
-# Terraform CloudPipeline and CloudBuild Setup
+# Terraform for AWS CodePipeline and AWS CodeBuild Setup
 
 This Terraform module sets up the CodePipeline and CodeBuild resources
 to build the code in the [sample/client](../sample/client).
