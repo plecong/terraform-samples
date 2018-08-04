@@ -8,10 +8,8 @@ phases:
   build:
     commands:
       - npm run build
-  post_build:
-    commands:
-      - aws s3 cp --recursive --acl public-read ./dist s3://plecong.site/
 artifacts:
   files:
-    - '**/*'
-  base-directory: sample/client/dist
+    - 'dist/**/*'
+    - 'buildspec-deploy.yml'
+  base-directory: sample/client
